@@ -10,7 +10,8 @@ I'm a student pursuing a degree in Electronics and Communication Engineering wit
   <img src = "https://punidramesh.tech/assets/images/django.svg" height = "70px">&nbsp&nbsp&nbsp&nbsp
 </p>
 
-## Contact me
+## Social
 [![Generic badge](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/punid)
 [![Generic badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/punidramesh)
 [![Generic badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@punidramesh)
+[![Generic badge](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/punid.ramesh)
