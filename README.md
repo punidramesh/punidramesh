@@ -11,6 +11,6 @@ I'm a student pursuing a degree in Electronics and Communication Engineering wit
 </p>
 
 ## Contact me
-[![Generic badge](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/punid)
+[![Generic badge](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/punid)
 [![Generic badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/punidramesh)
 [![Generic badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@punidramesh)
