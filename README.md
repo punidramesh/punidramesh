@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=punidramesh&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
 # I'm Punid Ramesh
 <p>I'm a student pursuing a degree in Electronics and Communication Engineering with a Specialization in IoT and Sensors. I'm passionate about technology and a firm believer in its capabilities. My field of interest includes deep learning and developing IoT solutions. Currently enhancing my skills and open to job opportunities.</p>
-<br><br><br><br><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=punidramesh&label=Profile%20views&color=0e75b6&style=flat" alt="rish07" /> </p>
 <p align = "center">
   <img src = "https://github.com/punidramesh/punidramesh/blob/master/assets/java.svg" height = "90px">&nbsp&nbsp&nbsp&nbsp
   <img src = "https://github.com/punidramesh/punidramesh/blob/master/assets/python.svg" height = "90px">&nbsp&nbsp&nbsp&nbsp
