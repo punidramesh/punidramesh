@@ -23,6 +23,6 @@
 
 ## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punidramesh&show_icons=true&hide_border=true"">
+  <img src="https://github-readme-stats.vercel.app/api?username=punidramesh&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>
 <!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punidramesh&" alt="punidramesh" /></p-->
