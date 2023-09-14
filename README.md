@@ -1,5 +1,5 @@
 # Hi!
-<p>I'm Punid Ramesh, a SWE at HP inc. I'm passionate about technology and a firm believer in its capabilities. My field of interest includes developing backend services, web development, and developing cloud solutions.</p>
+<p>I'm Punid Ramesh, a masters student at USC pursuing computer science. I'm passionate about technology and a firm believer in its capabilities. My field of interest includes developing backend services, web development, and developing cloud solutions.</p>
 
 <p align = "center">
   <img src = "https://github.com/punidramesh/punidramesh/blob/master/assets/java.svg" height = "90px">&nbsp&nbsp&nbsp&nbsp
